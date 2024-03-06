@@ -1,0 +1,45 @@
+
+body {
+    background-image: url(/imagens/fundo.png);
+}
+
+header {
+    margin-left: 150px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 82%;
+}
+
+#capa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 170px;
+}
+
+.links {
+    padding-right: 85px;
+}
+
+.title {
+    padding: 20px;
+}
+
+h1 {
+    padding-left: 12.5%;
+}
+
+.texts {
+    padding-left: 12.5%;
+    width: 79.5%;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    padding: 30px;
+}
